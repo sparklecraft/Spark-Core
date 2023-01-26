@@ -1,2 +1,2 @@
 # Spark-Core
-This is the core of the servers plugins
+This is the core of the servers plugins.
